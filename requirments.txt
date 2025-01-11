@@ -1,0 +1,7 @@
+pip install :
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+scikit-learn
